@@ -1,0 +1,14 @@
+.header-text{
+    margin-left: 20px; 
+    display: flex;
+    align-items: center;
+    
+    color: antiquewhite;
+}
+.fa-dumbbell{
+    font-size: 50px;
+}
+.site-name{
+    margin-left: 25px;
+    /* color: antiquewhite; */
+}
